@@ -20,6 +20,8 @@ Owner: [Owner Username] (ID: [Owner User ID])
 
 Total Members: [Total Member Count]
 
+
+
 Members by Role:
 
 [Role Name 1] ([Number of Members] members):
