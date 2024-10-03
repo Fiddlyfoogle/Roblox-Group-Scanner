@@ -9,9 +9,13 @@ pip install requests
 Format:
 
 Group Name: [Group Name]
+
 Group ID: [Group ID]
+
 Description: [Group Description]
+
 Owner: [Owner Username] (ID: [Owner User ID])
+
 Total Members: [Total Member Count]
 
 Members by Role:
